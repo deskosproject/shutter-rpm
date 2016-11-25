@@ -1,0 +1,6 @@
+= DeskOS: shutter RPM
+
+This is the _shutter_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/shutter-0.93.1-1.el7.nux.src.rpm[shutter-0.93.1-1.el7.nux.src.rpm]

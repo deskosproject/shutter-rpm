@@ -1,6 +1,6 @@
 Name:		shutter
 Version:	0.93.1
-Release:	1%{?dist}
+Release:	2%{?dist}
 Summary:	GTK+2-based screenshot application written in Perl
 Group:		Applications/Multimedia
 License:	GPLv3+
@@ -88,6 +88,9 @@ fi
 %{_datadir}/icons/ubuntu-mono-*/*/apps/%{name}-panel.*
 
 %changelog
+* Fri Nov 25 2016 Ricardo Arguello <rarguello@deskosproject.org> - 0.93.1-2
+- Rebuilt for DeskOS
+
 * Tue Aug 19 2014 Nux <rpm@li.nux.ro> - 0.93-1
 - Update to 0.93
 
